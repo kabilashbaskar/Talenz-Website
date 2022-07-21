@@ -1,0 +1,19 @@
+.nav {
+    margin-left: 1100px;
+    color: white;
+    padding: 10px 25px;
+    background-color: #f36a2c;
+    font-size: 20px;
+    display: inline-block;       
+}
+
+.img{
+   padding-left: 30px;
+   padding-bottom: 0%;
+}       
+
+.span{
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
